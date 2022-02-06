@@ -1,8 +1,7 @@
 ### Hi there 👋
 ### Let's advance to wide world of programming together!
-### I'm studying game programming.
 ### C++/C#, Unreal/Unity Engine, DirectX, Windows IOCP, ...
-
+### Any solution to studying easily? 🤔...
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JK831)
 ![JK831's github stats](https://github-readme-stats.vercel.app/api?username=JK831&show_icons=true)
