@@ -11,10 +11,10 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JK831)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
 ![JK831's github stats](https://github-readme-stats.vercel.app/api?username=JK831&show_icons=true)
 [![JK831's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JK831&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JK831)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhe9788)](https://solved.ac/rhe9788)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhe9788">
 
 ![Aspiration projected on game](https://drive.google.com/uc?id=1Vr_pfKILF2iESkfNE7qvwNAM12cvlaMP)
 
