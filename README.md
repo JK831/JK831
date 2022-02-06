@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Let's advance to wide world of programming together!
+### Let's explore to wide world of programming together!
 ### C++/C#, Unreal/Unity Engine, DirectX, Windows IOCP, ...
 ### Any solution to studying easily? 🤔...
 
