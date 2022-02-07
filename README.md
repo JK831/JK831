@@ -13,10 +13,11 @@
 #### Any solution to studying easily? 🤔...
 
 
-## Tech to focus on
+## Techs that I focus on
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF)
 ![Unreal Badge](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=UnrealEngine&logoColor=FFFFFF)
 ![Unity Badge](https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=FFFFFF)
+![Windows Badge](https://img.shields.io/badge/Windows-white?style=flat&logo=windows&logoColor=#0078D6)
 ![Csharp Badge](https://img.shields.io/badge/C#-black?style=flat&logo=Csharp&logoColor=FFFFFF)
 
 
