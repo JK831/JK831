@@ -13,7 +13,7 @@
 
 
 ## Tech to focus on
-<img src="https://img.shields.io/badge/Unreal-black?style=flat&logo=unreal&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Unreal Engine-black?style=flat&logo=Unreal&logoColor=FFFFFF"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JK831)
 ![JK831's github stats](https://github-readme-stats.vercel.app/api?username=JK831&show_icons=true&theme=dark)
