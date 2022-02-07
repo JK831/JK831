@@ -17,8 +17,9 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 
 ![Unreal Badge](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=UnrealEngine&logoColor=FFFFFF)
-![Unity Badge](https://img.shields.io/badge/Unity-black?style=flat&logo=UnrealEngine&logoColor=FFFFFF)
-<img src="https://img.shields.io/badge/C#-white?style=flat&logo=csharp&logoColor=239120"/>
+![Unity Badge](https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=FFFFFF)
+![Csharp Badge](https://img.shields.io/badge/C#-black?style=flat&logo=Csharp&logoColor=FFFFFF)
+
 
 
 
