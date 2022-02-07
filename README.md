@@ -13,7 +13,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JK831)
 ![JK831's github stats](https://github-readme-stats.vercel.app/api?username=JK831&show_icons=true&theme=dark)
-[![JK831's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JK831&show_icons=true&hide_border=true&title_color=004386&text_color=111111&bg_color=000000&icon_color=111111&layout=compact)](https://github.com/JK831)
+[![JK831's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JK831&show_icons=true&hide_border=true&title_color=004386&text_color=111111&bg_color=000000&icon_color=&layout=compact)](https://github.com/JK831)
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhe9788">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JK831&theme=dark)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JK831&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
