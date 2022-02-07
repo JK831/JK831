@@ -3,13 +3,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233FD1FF&title_bg=%23FF9744&icon=&icon_color=%2399FF3A&title=hits&edge_flat=false)](https://github.com/JK831)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rhe9788@gmail.com)
 
-### Let's explore to wide world of programming together!
-#### Any solution to studying easily? 🤔...
-### Who Am I?
+# Who Am I?
 - 🌱 I’m currently learning C++/C#, Unreal/Unity Engine, DirectX, Windows IOCP, ...
-- 🚅 My hometown is Seoul in Korea, now I'm a koreanman in Joongtham. 
+- 🚅 My hometown is Seoul in Korea, I'm a koreanman in Joongtham. 
 - 🌍 What is Joongtham? Joongtham is nickname of my town 😉
 
+### Let's explore to wide world of programming together!
+#### Any solution to studying easily? 🤔...
+
+
+## Tech to focus on
+<img src="https://img.shields.io/badge/Unreal-black?style=flat&logo=unreal&logoColor=FFFFFF"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JK831)
 ![JK831's github stats](https://github-readme-stats.vercel.app/api?username=JK831&show_icons=true&theme=dark)
