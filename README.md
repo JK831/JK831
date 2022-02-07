@@ -15,7 +15,7 @@
 
 ## Tech to focus on
 ![Unreal Badge](https://img.shields.io/badge/Unreal-black?style=flat&logo=unrealengine&logoColor=0E1128)
-<img src="https://img.shields.io/badge/Unreal-black?style=flat&logo=unrealengine&logoColor=0E1128"/>
+<img src="https://img.shields.io/badge/Unreal-white?style=flat&logo=unrealengine&logoColor=0E1128"/>
 <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/C#-black?style=flat&logo=Accusoft&logoColor=#239120"/>
 
