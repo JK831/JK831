@@ -16,7 +16,7 @@
 ## Tech to focus on
 <img src="https://img.shields.io/badge/Unreal-black?style=flat&logo=unrealengine&logoColor=0E1128"/>
 <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C#-black?style=flat&logo=scopus&logoColor=#239120"/>
+<img src="https://img.shields.io/badge/C#-black?style=flat&logo=Accusoft&logoColor=#239120"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JK831)
 ![JK831's github stats](https://github-readme-stats.vercel.app/api?username=JK831&show_icons=true&theme=dark)
