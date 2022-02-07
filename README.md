@@ -18,7 +18,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JK831)
 ![JK831's github stats](https://github-readme-stats.vercel.app/api?username=JK831&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JK831&layout=compact&theme=tokyonight)](https://github.com/JK831)
 [![JK831's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JK831&show_icons=true&hide_border=true&title_color=00EEFF&text_color=FFFFFF&bg_color=000000&icon_color=004386&layout=compact)](https://github.com/JK831)
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhe9788">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JK831&theme=dark)](https://git.io/streak-stats)
