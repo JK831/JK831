@@ -15,9 +15,9 @@
 
 ## Tech to focus on
 ![Unreal Badge](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=UnrealEngine&logoColor=white)
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 ![Csharp Badge](https://img.shields.io/badge/C#-white?style=flat&logo=csharp&logoColor=239120)
 <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JK831)
 ![JK831's github stats](https://github-readme-stats.vercel.app/api?username=JK831&show_icons=true&theme=dark)
