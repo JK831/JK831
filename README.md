@@ -14,15 +14,16 @@
 ### Let's explore to wide world of programming together!
 #### Any solution to studying easily? 🤔...
 <hr>
-<br>
 
 ## Techs that I focus on
+![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C%20Sharp&logoColor=000000)
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF)
+![Csharp Badge](https://img.shields.io/badge/-Csharp-239120?style=flat&logo=C%20Sharp&logoColor=FFFFFF)
 ![Unreal Badge](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=UnrealEngine&logoColor=FFFFFF)
 ![Unity Badge](https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=FFFFFF)
 ![Windows Badge](https://img.shields.io/badge/Windows-white?style=flat&logo=windows&logoColor=0078D6)
 ![Linux Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=FCC624)
-![Csharp Badge](https://img.shields.io/badge/-C%23%20-239120?style=flat&logo=C%20Sharp&logoColor=FFFFFF)
+
 
 
 
