@@ -9,10 +9,12 @@
 - 🚅 My hometown is Seoul in Korea, I'm a koreanman in Joongtham. 
 - 🌍 What is Joongtham? Joongtham is nickname of my town 😉
 <hr>
+<br>
 
 ### Let's explore to wide world of programming together!
 #### Any solution to studying easily? 🤔...
-
+<hr>
+<br>
 
 ## Techs that I focus on
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF)
