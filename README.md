@@ -16,9 +16,9 @@
 <hr>
 
 ## Techs that I focus on
-![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C%20Sharp&logoColor=000000)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=000000)
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF)
-![Csharp Badge](https://img.shields.io/badge/-Csharp-239120?style=flat&logo=C%20Sharp&logoColor=FFFFFF)
+![Csharp Badge](https://img.shields.io/badge/Csharp-239120?style=flat&logo=C%20Sharp&logoColor=FFFFFF)
 ![Unreal Badge](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=UnrealEngine&logoColor=FFFFFF)
 ![Unity Badge](https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=FFFFFF)
 ![Windows Badge](https://img.shields.io/badge/Windows-white?style=flat&logo=windows&logoColor=0078D6)
