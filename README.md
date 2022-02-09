@@ -23,7 +23,7 @@
 ![Windows Badge](https://img.shields.io/badge/Windows-white?style=flat&logo=windows&logoColor=0078D6)
 ![Linux Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=FCC624)
 ![Csharp Badge](https://img.shields.io/badge/C#-white?style=flat&logo=cSharp&logoColor=FFFFFF)
-![Csharp Badge](https://img.shields.io/badge/-C%23%20-black?style=flat&logo=C%20Sharp)
+![Csharp Badge](https://img.shields.io/badge/-C%23%20-black?style=flat&logo=C%20Sharp&logoColor=239120)
 
 
 
