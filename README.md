@@ -14,7 +14,7 @@
 #### Any solution to studying easily? 🤔...
 <hr>
 
-## Techs that I focus on
+## For now I'm focusing on
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=000000)
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF)
 ![Csharp Badge](https://img.shields.io/badge/-C%23%20-239120?style=flat&logo=C%20Sharp&logoColor=FFFFFF)
