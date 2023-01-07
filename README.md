@@ -33,7 +33,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JK831&theme=dark)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JK831&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Aspiration projected on game](https://drive.google.com/uc?id=1Vr_pfKILF2iESkfNE7qvwNAM12cvlaMP)
 <!--
 **JK831/JK831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
