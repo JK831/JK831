@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F706&size=30&duration=2500&vCenter=true&lines=Welcome+to+my+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F706&size=30&duration=2500&vCenter=true&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
 # <center>I'm JK in Joongtham 👋</center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233FD1FF&title_bg=%23FF9744&icon=&icon_color=%2399FF3A&title=hits&edge_flat=false)](https://github.com/JK831)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rhe9788@gmail.com)
