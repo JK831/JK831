@@ -21,7 +21,7 @@
 ![Unreal Badge](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=UnrealEngine&logoColor=FFFFFF)
 ![Unity Badge](https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=FFFFFF)
 ![Windows Badge](https://img.shields.io/badge/Windows-white?style=flat&logo=windows&logoColor=0078D6)
-![Linux Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=FCC624)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF)
 <hr>
 
 
