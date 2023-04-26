@@ -10,8 +10,8 @@
 - 🌍 Jungtham is a nickname of my town 😃
 <hr>
 
-### Let's explore to wide world of programming together!
-#### Any solution to studying easily? 🤔...
+### Let's explore the wide programming world 🤠
+#### Any solution to get start something easily? 🤔...
 <hr>
 
 ## For now I'm focusing on
