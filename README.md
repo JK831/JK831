@@ -5,7 +5,7 @@
 <hr>
 
 # <center>Who Am I?</center>
-- 🌱 Be steadily learning C++/C#, Unreal/Unity Engine, DirectX, Windows IOCP, ... for game programming
+- 🌱 I'm steadily learning C++/C#, Unreal/Unity Engine, DirectX, Windows IOCP, ... for game programming
 - 🚅 My hometown is Jungtham in Seoul, South Korea.
 - 🌍 Jungtham is a nickname of my hometown 😃
 <hr>
