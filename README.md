@@ -10,7 +10,7 @@
 - 🌍 Jungtham is a nickname of my hometown 😃
 <hr>
 
-### Let's explore the wide programming world 🤠
+### Have a nice day 🤠
 #### Any solution to get start something easily? 🤔...
 <hr>
 
